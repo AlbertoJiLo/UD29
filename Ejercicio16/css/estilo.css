@@ -1,0 +1,37 @@
+.nums{
+list-style: decimal;
+}
+
+.minus{
+list-style: lower-latin;
+}
+
+.romanomayus{
+list-style: upper-roman;
+}
+
+table{
+    color:rgb(75, 31, 2);
+    text-align: center;
+    font-weight:bolder;
+    border: 1px;
+    background-color: rgb(255, 255, 255);
+    border-bottom:black 3px solid;
+    border-right:black 3px solid;
+    background-image: url(".././img/patitas.jpg");
+}
+
+th{
+    background-color: darkolivegreen;
+}
+td{
+    border:black 1px solid;
+}
+
+.titulos{
+    background-color: rgb(255, 178, 101);
+}
+
+.tamaño{
+    background-color: rgb(255, 220, 132);
+}

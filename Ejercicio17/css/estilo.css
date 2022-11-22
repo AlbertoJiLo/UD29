@@ -1,0 +1,122 @@
+body{
+    background-image: url('./../img/ac.jpg');
+}
+
+.fondo{
+    width: 900px;
+    height: 700px;
+    margin: auto;
+}
+
+.fila{
+    text-align: center;
+    width:100%;
+    height:200px;
+    margin:auto;
+}
+
+.fila > div{
+    border:1px solid;
+    width:20%;
+    height: 80%;
+    float: left;
+    margin-left:4%;
+    margin-top:2%;
+}
+
+#letraA{
+    background-image: url('./../img/back_mantel.jpg');
+}
+
+#letraB{
+    box-sizing: border-box;
+}
+
+#letraB >div{
+    background-image: url('./../img/back_mantel.jpg');
+    background-clip:content-box;
+    width:70%;
+    height: 70%;
+    margin-left:15%;
+}
+
+#letraC{
+    background-image: url('./../img/back_mantel.jpg');
+    background-size:100% 100%;
+}
+
+#letraD{
+    box-sizing: border-box;
+}
+
+#letraD >div{
+    background-image: url('./../img/back_mantel.jpg');
+    background-repeat: no-repeat;
+    background-clip:content-box;
+    background-size:100% 100%;
+    width:70%;
+    height: 70%;
+    margin-left:15%;
+}
+
+#letraE{
+    background-image: url('./../img/dh.jpg');
+    background-size:100% 100%;
+}
+
+#letraF{
+    background-color: white;
+    box-sizing:border-box;
+}
+
+#letraF >div{
+    background-image: url('./../img/dh.jpg');
+    background-repeat: no-repeat;
+    background-clip:content-box;
+    background-size:100% 100%;
+    width:70%;
+    height: 70%;
+    margin-left:15%;
+}
+
+#letraG{
+    background-color: white;
+    box-sizing:border-box;
+}
+
+#letraG >div{
+    background-image: url('./../img/dh_2.jpg');
+    background-repeat: no-repeat;
+    background-clip:content-box;
+    background-size:100% 100%;
+    width:100%;
+    height: 70%;
+}
+
+#letraH{
+    background-color: white;
+    background-image: url('./../img/dh_3.jpg');
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position:center
+}
+
+#letraI{
+    background: rgb(208,255,185);
+    background: linear-gradient(90deg, rgba(208,255,185,1) 0%, rgba(61,103,36,1) 60%, rgba(145,145,145,1) 100%);
+}
+
+#letraJ{
+    background: rgb(255,255,255);
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(130,71,39,1) 51%, rgba(204,58,0,1) 98%); 
+}
+
+#letraK{
+    background: rgb(255,255,255);
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(7,115,12,1) 66%, rgba(10,74,26,1) 98%); 
+}
+
+#letraL{
+    background: rgb(255,255,255);
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(7,115,12,0.24701218377976186) 66%, rgba(10,74,26,1) 98%); 
+}

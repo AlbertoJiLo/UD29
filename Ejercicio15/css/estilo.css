@@ -1,0 +1,11 @@
+.nums{
+list-style: decimal;
+}
+
+.minus{
+list-style: lower-latin;
+}
+
+.romanomayus{
+list-style: upper-roman;
+}
